@@ -8,7 +8,7 @@ The ER diagram illustrates the relationships and attributes of entities within o
 
 ![ER Diagram](https://github.com/AnirudhPI/Industrial-Records/blob/main/ER%20Diagram.png "ER Diagram")
 
-![Relationship Schema](https://github.com/AnirudhPI/Industrial-Records/blob/main/Relationship%20Schema.png ""Relationship Schema")
+![Relationship Schema](https://github.com/AnirudhPI/Industrial-Records/blob/main/Relationship%20Schema.png "Relationship Schema")
 
 ## Entities Description
 - **WORKER**: Represents employees with attributes like ID (WID), name, address, skill level, and salary.
